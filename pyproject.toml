@@ -1,12 +1,20 @@
 [project]
-name = "nonebot-plugin-template"
+name = "nonebot-plugin-fursuit-tv"
 version = "0.1.0"
-description = "<your_plugin_description>"
+description = "实现 VDS DEVELOPER 所支持的fursuit tv 端点"
 authors = [
-    {name = "<your_github>", email = "<your_email>"},
+    {name = "yizhixingjianya-cyx", email = "yizhixingjianya@qq.com"},
 ]
 dependencies = [
     "nonebot2>=2.3.1",
+    "nonebot-plugin-apscheduler",
+    "pydantic>=2.0",
+    "httpx",
+    "loguru",
+    "Pillow",
+    "requests",
+    "aiofiles",
+    "aiohttp",
 ]
 requires-python = ">=3.9"
 readme = "README.md"
