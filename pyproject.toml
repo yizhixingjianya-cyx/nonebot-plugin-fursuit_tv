@@ -1,6 +1,6 @@
 [project]
 name = "nonebot-plugin-fursuit-tv"
-version = "0.1.1"
+version = "0.1.2"
 description = "实现 VDS DEVELOPER 所支持的 fursuit tv 端点"
 authors = [
     {name = "yizhixingjianya-cyx", email = "yizhixingjianya@qq.com"},
