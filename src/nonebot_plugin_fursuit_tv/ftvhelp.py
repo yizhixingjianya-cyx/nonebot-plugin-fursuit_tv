@@ -16,8 +16,8 @@ __plugin_meta__ = PluginMetadata(
     usage="发送「帮助」或「help」指令获取帮助图片",
 )
 
-neirong = "Cubic_11.ttf"
-biaoti = "Cubic.ttf"
+neirong = "hanyi.otf"
+biaoti = "hanyi.otf"
 
 # 帮助命令（触发词不变）
 help_cmd = on_command("兽频道帮助", aliases={"ftvhelp"}, priority=5, block=True)
