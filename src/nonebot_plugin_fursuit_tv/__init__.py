@@ -24,7 +24,7 @@ __plugin_meta__ = PluginMetadata(
     config=FurtvConfig,
     # 插件配置项类，如果有配置类则必须填写。
 
-    supported_adapters={"~nonebot.adapters.onebot.v11"},
+    supported_adapters={"~onebot.v11"},
     # 支持的适配器集合，其中 `~` 在此处代表前缀 `nonebot.adapters.`，其余适配器亦按此格式填写。
     # 若插件只使用了 NoneBot 基本抽象，应显式填写 None，否则应该列出插件支持的适配器。
 )
