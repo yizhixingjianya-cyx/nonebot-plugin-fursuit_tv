@@ -1,4 +1,4 @@
-nonebot2>=2.4.4
+nonebot2>=2.5.0
 nonebot-plugin-apscheduler
 pydantic>=2.13.4
 httpx
