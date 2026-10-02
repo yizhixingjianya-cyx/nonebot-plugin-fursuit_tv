@@ -25,3 +25,5 @@ app_id=你的id
 client_secret=你的密钥
 
 xdgop 星电计划 CYXbot 附属插件
+
+本插件已停止维护，功能并入cyxbot内
