@@ -1,6 +1,6 @@
 nonebot2>=2.5.0
 nonebot-plugin-apscheduler
-pydantic>=2.13.5
+pydantic>=2.14.1
 httpx
 loguru
 Pillow
